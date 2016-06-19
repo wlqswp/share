@@ -69,7 +69,7 @@
 	
 	 <scm>
         <developerConnection>scm:git:git@github.com:wlqswp/share.git</developerConnection>
- 	   <tag>1.1.x</tag>
+ 	   <tag>HEAD</tag>
   </scm>
   
 </project>
